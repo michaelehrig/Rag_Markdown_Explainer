@@ -10,6 +10,4 @@ wheels/
 .venv
 
 # Data files
-*.pdf
-*.md
-!README.md
+papers/
