@@ -28,7 +28,7 @@ The goal is to keep the system **small, readable, and educational** while still 
 - [Quick Start](#-quick-start)
 - [Example Output](#-example-output)
 - [Project Structure](#-project-structure)
-- [How It Works](#-how-it-works)
+- [How It Works](#%EF%B8%8F-how-it-works)
 - [Command-Line Options](#-command-line-options)
 - [Supported File Types](#-supported-file-types)
 - [Main Components](#-main-components)
